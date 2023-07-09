@@ -10,4 +10,4 @@ langchain-learning
 
 - Gradio Frontend
 
-![Frontend](https://github.com/Atomic-man007/langchain-learning/frontend.png)
+![](/frontend.png)
