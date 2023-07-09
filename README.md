@@ -10,4 +10,4 @@ langchain-learning
 
 - Gradio Frontend
 
-![](/frontend.png)
+![](/gradio-frontend.png)
